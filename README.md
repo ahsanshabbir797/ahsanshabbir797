@@ -1,122 +1,36 @@
-<h1 align="center">Hi, I'm Ahsan Shabbir Abbasi 👋</h1>
+# Hi, I'm Ahsan Abbasi! 👋
 
-<p align="center">
-  <em>Full-Stack Engineer · 4+ years building production systems from database to UI</em>
-</p>
+I'm a full-stack engineer with 4+ years of production experience shipping features end-to-end — from database to UI. I've worked across edtech, real estate, risk management, and enterprise SaaS, delivering products to **US banking, insurance, and B2B clients**. I genuinely enjoy the messy parts of engineering — modernizing legacy systems, designing fault-tolerant pipelines, and owning a feature from scoping to production without dropping the ball on performance or code quality.
 
-<p align="center">
-  <a href="https://linkedin.com/in/ahsan-s-abbasi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahsanshabbir97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Based%20in-Islamabad,%20PK-2E7D32?style=flat-square" alt="Location" />
-</p>
+- 🏗️  I'm currently architecting a **distributed SEO audit pipeline** with queue-based execution and retry logic
+- 🌱  I'm currently exploring **AI agent workflows, BullMQ at scale, and event-driven architectures**
+- ❓  Ask me about anything related to **React, Next.js, Angular, NestJS, .NET Core**, or scaling SaaS apps
+- ✉️  You can contact me at [ahsanshabbir97@gmail.com](mailto:ahsanshabbir97@gmail.com)
+- 💼  Open to **full-stack roles, SaaS architecture, and contract engagements**
+- ⚡  Fun fact: I saved a client **~$400/month** by replacing a paid geocoding API with a self-hosted one — and cut latency by 40% in the process 🚀
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-s-abbasi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahsanshabbir97&#64;gmail.com)
 
-### 🧭 About Me
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure_devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-I'm a full-stack engineer who has shipped features end-to-end across **edtech, real estate, risk management, and enterprise SaaS**. My day-to-day spans **React, Next.js, Angular, Node.js, NestJS, and Python** — backed by PostgreSQL, MSSQL, and Redis, deployed on AWS and Azure.
-
-I enjoy the parts of engineering most people avoid: modernizing legacy systems, designing fault-tolerant pipelines, and owning a feature from scoping to production without dropping the ball on performance or code quality.
-
-- 🏗️ Currently architecting a **distributed SEO audit pipeline** with queue-based execution and retry logic
-- 🏢 Previously delivered a multi-tenant SaaS scheduler in Angular 16 — "Google Calendar–scope" — for banks, universities, and legal institutions
-- 🇺🇸 Built and shipped products to **US banking, insurance, and enterprise B2B clients**
-- 💡 Big believer in replacing expensive third-party APIs with self-hosted alternatives when it makes sense (saved one client ~$400/month and cut latency by 40%)
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
----
-
-### 🚀 Selected Work
+# 🚀 Selected Work:
 
 **🔄 Distributed SEO Audit Pipeline** — *Devscomet*
-A queue-based, multi-step audit system that orchestrates Google APIs, SEO tools, and scraping engines into a single automated reporting platform. Designed for fault tolerance, retries, and long-running jobs. Cut manual audit effort by **90%+**.
+Queue-based, multi-step audit system orchestrating Google APIs, SEO tools, and scraping engines into a unified reporting platform. Built for fault tolerance, retries, and long-running jobs. **Cut manual audit effort by 90%+.**
 
 **📅 Multi-Tenant SaaS Scheduler (Cerifi)** — *Devscomet*
-A Google Calendar–scale course planner in Angular 16 with configurable study frequency, vacation windows, and tenant-aware role-based access. Backed by .NET Core 6 APIs serving banks, universities, and legal institutions.
+A Google Calendar-scope course planner in Angular 16 with configurable study frequency, vacation windows, and tenant-aware RBAC. Backed by .NET Core 6 APIs serving banks, universities, and legal institutions.
 
 **🏦 Property Valuation SaaS** — *CyberSoft Vantage*
-Led migration of a legacy server-rendered .NET UI to a responsive Angular 14 SPA for US banking & insurance clients. Built the Wiki help centre and replaced a paid geocoding API with a self-hosted solution — **~$400/month savings, ~40% latency drop.**
+Led migration of a legacy server-rendered .NET UI to a responsive Angular 14 SPA for US banking & insurance clients. Built the Wiki help centre from scratch and replaced a paid geocoding API with a self-hosted one — **~$400/mo savings, ~40% latency reduction.**
 
 **🎥 Cloud Video Processing Pipeline** — *CyberSoft Vantage*
 Serverless video uploads using AWS Lambda + S3 + CloudFront, with Lambda-triggered transcoding processing content in **under 30 seconds.**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahsanshabbir797&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanshabbir797&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanshabbir797&theme=tokyonight&hide_border=true" />
-</p>
+###
 
 ---
 
-### 🤝 Let's Connect
-
-I'm open to conversations about **full-stack roles, SaaS architecture, legacy modernization, and contract engagements**. The fastest way to reach me:
-
-- 💼 [LinkedIn](https://linkedin.com/in/ahsan-s-abbasi)
-- 📬 [ahsanshabbir97@gmail.com](mailto:ahsanshabbir97@gmail.com)
-
-<p align="center"><em>"Self-directed across the full delivery cycle — from scoping to production."</em></p>
+[![](https://visitcount.itsvg.in/api?id=ahsanshabbir797&icon=5&color=12)](https://visitcount.itsvg.in)
