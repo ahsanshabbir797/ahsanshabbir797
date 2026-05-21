@@ -1,188 +1,122 @@
-<div align="center">
-
-# Ahsan Shabbir Abbasi
-
-### Full-Stack Engineer • SaaS Systems Builder • Distributed Systems Enthusiast
-
-Building scalable products across fintech, edtech, enterprise SaaS, and automation systems.
+<h1 align="center">Hi, I'm Ahsan Shabbir Abbasi 👋</h1>
 
 <p align="center">
-  <a href="mailto:ahsanshabbir97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahsanshabbir97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/ahsan-s-abbasi">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahsan%20Abbasi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/ahsanshabbir797">
-    <img src="https://img.shields.io/badge/GitHub-ahsanshabbir797-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <em>Full-Stack Engineer · 4+ years building production systems from database to UI</em>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ahsanshabbir797&style=for-the-badge&color=blue" />
-
-</div>
-
----
-
-# About Me
-
-Full-Stack Engineer with 4+ years of experience building scalable SaaS platforms, distributed systems, and enterprise-grade web applications.
-
-I specialize in designing production-ready systems across:
-
-- Frontend architecture
-- Backend & API engineering
-- Distributed job systems
-- Multi-tenant SaaS platforms
-- Cloud infrastructure & CI/CD
-- Performance-focused product engineering
-
-I’ve worked across fintech, edtech, enterprise automation, real estate, and cloud media processing systems.
-
----
-
-# Tech Stack
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap" />
-</p>
-
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![ng-zorro](https://img.shields.io/badge/ng--zorro-1677FF?style=for-the-badge)
-![ngx-bootstrap](https://img.shields.io/badge/ngx--bootstrap-7952B3?style=for-the-badge)
-
----
-
-## Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,graphql" />
-</p>
-
----
-
-## Databases & Queue Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
-</p>
-
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![BullMQ](https://img.shields.io/badge/BullMQ-EA2845?style=for-the-badge)
-
----
-
-## Cloud • DevOps • Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git" />
-</p>
-
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge)
-![Windows IIS](https://img.shields.io/badge/Windows_IIS-0078D7?style=for-the-badge)
-
----
-
-# What I Build
-
-### Distributed SEO Audit Platforms
-Queue-driven asynchronous systems handling long-running SEO analysis pipelines with retry & fault-tolerant execution.
-
-### Multi-Tenant Enterprise SaaS
-RBAC-enabled SaaS platforms supporting banks, universities, and enterprise organizations.
-
-### Cloud Video Processing Pipelines
-Serverless media processing architectures using AWS Lambda, S3, and CloudFront.
-
-### Enterprise Scheduling Systems
-Complex calendar-grade scheduling systems with configurable rules and workflow automation.
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahsanshabbir797&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanshabbir797&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Most Used Technologies
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanshabbir797&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Featured Projects
-
-## Distributed SEO Audit System
-Scalable asynchronous SEO auditing pipeline with queue workers, retry handling, and automated reporting.
-
-### Tech
-`Node.js` `BullMQ` `Redis` `Docker` `REST APIs`
-
----
-
-## Multi-Tenant SaaS Platform
-Enterprise education platform supporting tenant isolation, RBAC, scheduling systems, and configurable permissions.
-
-### Tech
-`Angular` `ASP.NET Core` `MSSQL` `Azure DevOps`
-
----
-
-## Cloud Media Processing Pipeline
-Serverless video upload & transcoding architecture with scalable cloud delivery.
-
-### Tech
-`AWS Lambda` `S3` `CloudFront` `React`
-
----
-
-# Currently Exploring
-
-- Distributed systems design
-- AI-assisted engineering workflows
-- Scalable backend architecture
-- Workflow automation systems
-- High-performance SaaS infrastructure
-
----
-
-# Let's Connect
 
 <p align="center">
-  <a href="mailto:ahsanshabbir97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
   <a href="https://linkedin.com/in/ahsan-s-abbasi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/ahsanshabbir797">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:ahsanshabbir97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Based%20in-Islamabad,%20PK-2E7D32?style=flat-square" alt="Location" />
 </p>
 
 ---
 
-<div align="center">
+### 🧭 About Me
 
-### "I enjoy building systems that solve real operational problems at scale."
+I'm a full-stack engineer who has shipped features end-to-end across **edtech, real estate, risk management, and enterprise SaaS**. My day-to-day spans **React, Next.js, Angular, Node.js, NestJS, and Python** — backed by PostgreSQL, MSSQL, and Redis, deployed on AWS and Azure.
 
-</div>
+I enjoy the parts of engineering most people avoid: modernizing legacy systems, designing fault-tolerant pipelines, and owning a feature from scoping to production without dropping the ball on performance or code quality.
+
+- 🏗️ Currently architecting a **distributed SEO audit pipeline** with queue-based execution and retry logic
+- 🏢 Previously delivered a multi-tenant SaaS scheduler in Angular 16 — "Google Calendar–scope" — for banks, universities, and legal institutions
+- 🇺🇸 Built and shipped products to **US banking, insurance, and enterprise B2B clients**
+- 💡 Big believer in replacing expensive third-party APIs with self-hosted alternatives when it makes sense (saved one client ~$400/month and cut latency by 40%)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Selected Work
+
+**🔄 Distributed SEO Audit Pipeline** — *Devscomet*
+A queue-based, multi-step audit system that orchestrates Google APIs, SEO tools, and scraping engines into a single automated reporting platform. Designed for fault tolerance, retries, and long-running jobs. Cut manual audit effort by **90%+**.
+
+**📅 Multi-Tenant SaaS Scheduler (Cerifi)** — *Devscomet*
+A Google Calendar–scale course planner in Angular 16 with configurable study frequency, vacation windows, and tenant-aware role-based access. Backed by .NET Core 6 APIs serving banks, universities, and legal institutions.
+
+**🏦 Property Valuation SaaS** — *CyberSoft Vantage*
+Led migration of a legacy server-rendered .NET UI to a responsive Angular 14 SPA for US banking & insurance clients. Built the Wiki help centre and replaced a paid geocoding API with a self-hosted solution — **~$400/month savings, ~40% latency drop.**
+
+**🎥 Cloud Video Processing Pipeline** — *CyberSoft Vantage*
+Serverless video uploads using AWS Lambda + S3 + CloudFront, with Lambda-triggered transcoding processing content in **under 30 seconds.**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahsanshabbir797&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanshabbir797&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanshabbir797&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to conversations about **full-stack roles, SaaS architecture, legacy modernization, and contract engagements**. The fastest way to reach me:
+
+- 💼 [LinkedIn](https://linkedin.com/in/ahsan-s-abbasi)
+- 📬 [ahsanshabbir97@gmail.com](mailto:ahsanshabbir97@gmail.com)
+
+<p align="center"><em>"Self-directed across the full delivery cycle — from scoping to production."</em></p>
